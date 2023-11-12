@@ -7,4 +7,3 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Machine Learning**, **Deep Learning**, **MLOps**, **development**, **CAE**
 - 📫 Reach me: satyam.nyati@protonmail.com
-- ⚡️ Fun fact: I like reading Magical Books
