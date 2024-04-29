@@ -6,4 +6,4 @@
 - ⚙️  I use daily: `.py`
 - 🌱 Learning all about **MLOps**
 - 💬 Ping me about **Machine Learning**, **Deep Learning**, **MLOps**, **development**, **CAE**
-- 📫 Reach me: satyam.nyati@icloud.com
+- 📫 Reach me: sam.28011997@gmail.com
